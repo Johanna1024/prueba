@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-03T07:35:20 COT" name="Default suite" finished-at="2020-12-03T07:35:36 COT" duration-ms="16517">
+    <groups>
+    </groups>
+    <test started-at="2020-12-03T07:35:20 COT" name="Default test" finished-at="2020-12-03T07:35:36 COT" duration-ms="16517">
+      <class name="SearchByspecies">
+        <test-method signature="Buscar()[pri:0, instance:SearchByspecies@5be6e01c]" started-at="2020-12-03T07:35:20 COT" name="Buscar" finished-at="2020-12-03T07:35:36 COT" duration-ms="16459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Buscar -->
+      </class> <!-- SearchByspecies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
